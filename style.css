@@ -219,7 +219,16 @@ h3.gray {
     border: 0;
     color: white;
     
+}
 
+#portfolioTitle {
+    margin-top: 120px;
+}
 
-    
+.portfolioImg img{
+    width: 100%;
+}
+
+.portfolioImg {
+    padding: 15px;
 }
